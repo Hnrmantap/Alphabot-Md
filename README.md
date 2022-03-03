@@ -58,7 +58,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/zeeone-ofc/Alphabot-Md.git
+git clone https://github.com/Hnrmantap/Alphabot-Md.git
 cd Alphabot-Md
 pkg install yarn
 yarn install
